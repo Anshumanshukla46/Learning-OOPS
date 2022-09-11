@@ -1,7 +1,7 @@
 # Learning-OOPS
 Learnt basic concept of oops
 
-Here,imagine that here is two packages  (sorry for now creating (* ￣︿￣) )
+Here,imagine that here is two packages  (sorry for not creating )
 1. basic (containing Abstraction, Interfaces, MainClass)  
 2. encasulation (containing EncapsulationIntro)
 
